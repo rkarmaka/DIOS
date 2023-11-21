@@ -1,0 +1,9 @@
+To download the ilastik installer, please open the terminal inside your O2 Portal DesktopMate environment and run the following command:
+
+'''
+cd Downloads
+wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/ilastik_installer.sh
+chmod u+x ilastik_installer.sh
+'''
+
+After downloading the file, go to your Downloads folder and double-click on the ilastik_installer.sh file. It would automatically download the installer, install ilastik, and create an icon
