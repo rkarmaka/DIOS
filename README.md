@@ -1,7 +1,7 @@
 # DIOS
 
 ## Description:
-This repo contains the instructions and installer files for project DIOS. Project DIOS is a project to make bioimage analysis software easily available. It is developed on Open On Demand. For every software, there is an installer bash file that can be downloaded using specific wget command. Once the file is downloaded, users can execute the installer which will then install/load all the required packages and create a desktop icon for the specific software on the desktop. From the next time, the software will be available for the users to access.
+This repo contains the instructions and installer files for project DIOS. Project DIOS is a project to make bioimage analysis software easily available. It is developed on Open On Demand. For every software, there is an installer bash file that can be downloaded using a specific wget command. Once the file is downloaded, users can execute the installer which will then install/load all the required packages and create a desktop icon for the specific software on the desktop. From the next time, the software will be available for the users to access.
 
 
 ## List of available software:
@@ -10,8 +10,11 @@ This repo contains the instructions and installer files for project DIOS. Projec
 * ilastik - v1.4.0
 * QuPath - v0.4.1
 
-To use any of these softwares, please check the software specific pages.
+To use any of these software, please check the software-specific pages.
 
+
+## System Requirement:
+We recommend that you start a Desktop Mate with at least 8 GB of memory. For the best graphics, please decrease the compression and increase the image quality. Please note that this may also affect the performance and increase the lag as it is dependent on the internet connection.
 
 ## Contact:
 If you run into any issue or have any software suggestions, please reach out to .......
