@@ -2,7 +2,6 @@ To install Napari, please run the following commands:
 
 '''
 cd Downloads
-wget
-https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/napari_installer.sh
+wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/napari_installer.sh
 chmod u+x napari_installer.sh
 '''
