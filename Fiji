@@ -1,5 +1,9 @@
 To download the Fiji installer, please open the terminal inside your O2 Portal DesktopMate environment and run the following command:
 
 '''
+cd Downloads
 wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/fiji_installer.sh
+chmod u+x fiji_installer.sh
 '''
+
+After downloading the file, go to your Downloads folder. You will see a .sh file called fiji_installer.sh. By default it is not executible. Right click on the file, go to properties 
