@@ -6,4 +6,4 @@ wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/fiji_instal
 chmod u+x fiji_installer.sh
 '''
 
-After downloading the file, go to your Downloads folder. You will see a .sh file called fiji_installer.sh. By default it is not executible. Right click on the file, go to properties 
+After downloading the file, go to your Downloads folder and double click on the fiji_installer.sh file. It would automatically download the installer, install Fiji, and create an icon called Fiji on your desktop for future access.
