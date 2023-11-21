@@ -26,7 +26,7 @@ Name=$SOFTWARE_NAME
 Exec=$HOME/Documents/ilastik-1.4.0-Linux/run_ilastik.sh
 Terminal=true
 Type=Application
-Icon=$HOME/Documents/ilastik-1.4.0-Linux/895767?s=280.png
+Icon=$HOME/Documents/ilastik-1.4.0-Linux/895767?s=280&v=4
 " > ilastik.desktop
 
 
