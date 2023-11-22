@@ -6,18 +6,18 @@ This repo contains the instructions and installer files for project DIOS. Projec
 
 ## List of available software:
 * Fiji - v2.15.0
-'''
+```
 cd Downloads
 wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/fiji_installer.sh
-'''
+```
 then run:
-'''
+```
 chmod u+x fiji_installer.sh
-'''
+```
 Then run:
-'''
+```
 ./fiji_installer.sh
-'''
+```
 
 * Napari - v0.4.18 
 * ilastik - v1.4.0
