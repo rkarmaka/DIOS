@@ -6,6 +6,14 @@ This repo contains the instructions and installer files for project DIOS. Projec
 
 ## List of available software:
 * Fiji - v2.15.0
+* Napari - v0.4.18 
+* ilastik - v1.4.0
+* QuPath - v0.4.1
+
+Please use the following instructions to install any of the software.
+
+## Installation:
+### Fiji
 ```
 cd Downloads
 wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/fiji_installer.sh
@@ -19,11 +27,6 @@ Then run:
 ./fiji_installer.sh
 ```
 
-* Napari - v0.4.18 
-* ilastik - v1.4.0
-* QuPath - v0.4.1
-
-To use any of these software, please check the software-specific pages.
 
 
 ## System Requirement:
