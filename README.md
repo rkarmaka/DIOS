@@ -9,6 +9,8 @@ This repo contains instructions and installer files for project DIOS. Project DI
 * Napari - v0.4.18 
 * Ilastik - v1.4.0
 * QuPath - v0.4.1
+* Matlab - R2023a
+* PlantSeg - 1.6.2
 
 Please use the following instructions to install any of the software.
 
@@ -25,11 +27,9 @@ After running the commands, please sit back, relax and maybe enjoy a cup of coff
 cd Downloads
 wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/fiji_installer.sh
 ```
-then run:
 ```
 chmod u+x fiji_installer.sh
 ```
-Then run:
 ```
 ./fiji_installer.sh
 ```
@@ -39,11 +39,9 @@ Then run:
 cd Downloads
 wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/napari_installer.sh
 ```
-then run:
 ```
 chmod u+x napari_installer.sh
 ```
-Then run:
 ```
 ./napari_installer.sh
 ```
@@ -53,11 +51,9 @@ Then run:
 cd Downloads
 wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/ilastik_installer.sh
 ```
-then run:
 ```
 chmod u+x ilastik_installer.sh
 ```
-Then run:
 ```
 ./ilastik_installer.sh
 ```
@@ -67,14 +63,37 @@ Then run:
 cd Downloads
 wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/qupath_installer.sh
 ```
-then run:
 ```
 chmod u+x qupath_installer.sh
 ```
-Then run:
 ```
 ./qupath_installer.sh
 ```
+
+### Matlab
+```
+cd Downloads
+wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/matlab_installer.sh
+```
+```
+chmod u+x matlab_installer.sh
+```
+```
+./matlab_installer.sh
+```
+
+### PlantSeg
+```
+cd Downloads
+wget https://raw.githubusercontent.com/rkarmaka/DIOS/main/installers/plantseg_installer.sh
+```
+```
+chmod u+x plantseg_installer.sh
+```
+```
+./plantseg_installer.sh
+```
+
 
 
 ## System Requirement:
