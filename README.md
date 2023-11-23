@@ -15,7 +15,7 @@ This repo contains instructions and installer files for project DIOS. Project DI
 Please use the following instructions to install any of the software.
 
 ## Installation:
-Open a [DesktopMate](https://o2portal.rc.hms.harvard.edu/pun/sys/dashboard/batch_connect/sys/RC_desktop_mate/session_contexts/new) application on O2 Portal. We recommend that you start a Desktop Mate with at least 8 GB of memory. For the best graphics, please decrease the compression and increase the image quality. Please note that this may also affect the performance and increase the lag as it is dependent on the internet connection. *add screenshots*
+Open a [Desktop Mate](https://o2portal.rc.hms.harvard.edu/pun/sys/dashboard/batch_connect/sys/RC_desktop_mate/session_contexts/new) application on O2 Portal. We recommend that you start a Desktop Mate with at least 8 GB of memory. For the best graphics, please decrease the compression and increase the image quality. Please note that this may also affect the performance and increase the lag as it is dependent on the internet connection. *add screenshots*
 
 Once you are inside DesktopMate, open the terminal window *add screenshot* and run the following commands for specific software. We recommend you open separate windows for separate installations.
 
