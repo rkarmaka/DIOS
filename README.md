@@ -15,11 +15,11 @@ This repo contains instructions and installer files for project DIOS. Project DI
 Please use the following instructions to install any of the software.
 
 ## Installation:
-Open a [Desktop Mate](https://o2portal.rc.hms.harvard.edu/pun/sys/dashboard/batch_connect/sys/RC_desktop_mate/session_contexts/new) application on O2 Portal. We recommend that you start a Desktop Mate with at least 8 GB of memory. For the best graphics, please decrease the compression and increase the image quality. Please note that this may also affect the performance and increase the lag as it is dependent on the internet connection. *add screenshots*
+Open [Desktop Mate](https://o2portal.rc.hms.harvard.edu/pun/sys/dashboard/batch_connect/sys/RC_desktop_mate/session_contexts/new) on O2 Portal. We recommend that you use at least 8 GB of memory. For the best graphics, please decrease the compression and increase the image quality. Please note that this may also affect the responsiveness and increase the lag as it is dependent on the internet connection. *add screenshots*
 
-Once you are inside DesktopMate, open the terminal window *add screenshot* and run the following commands for specific software. We recommend you open separate windows for separate installations.
+Once you are inside Desktop Mate, open the terminal window *add screenshot* and run the following commands for specific software. We recommend you open separate windows for separate installations.
 
-After running the commands, please sit back, relax and maybe enjoy a cup of coffee while the installer installs the software for you. Once it is done, you will see that it created a launcher on your desktop. From the next time, you can use the lanucher to open the software and use it. Any changes you make, such as installing new plugins will be available even after you logout.
+After running the commands, please sit back, relax and maybe enjoy a cup of coffee while the installer installs the software for you. Once the installation is finished successfully, you will see that it created a launcher on your desktop. From the next time, you can use the desktop lanucher to launch the software. Any changes you make, such as installing new plugins will be available even after you logout of your session.
 
 
 ### Fiji
